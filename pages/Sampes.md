@@ -1,6 +1,6 @@
 ---
 title: "Samples"
-layout: page
+layout: "page"
 ---
 # Sample websites:
 
