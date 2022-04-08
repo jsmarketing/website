@@ -1,7 +1,9 @@
 theme: minima
 
 siteConfig:
+  title: "Githoted.site"
   url: https://githosted.site
+  # Note that `siteConfig.url` is required for Disqus
   author: Vasilii-Zherar Pavlov
   email: vasilii@jsmarketing.ru
   description: "Twitter автора проекта: https://twitter.com/saber_land"
@@ -13,14 +15,27 @@ themeConfig:
     - text: About
       link: /about.html
     - text: Samples
-      link: /samples.html
+      link: /samples.html      
   social:
-    twitter: jsdeveloperpro
-    github: githostedsite
-    rss: true
+     twitter: jsdeveloperpro
+     github: githostedsite
+#    dribbble: coming_soon
+#    facebook: coming_soon
+#    flickr: coming_soon
+#    instagram: coming_soon
+#    linkedin: coming_soon
+#    pinterest: coming_soon
+#    youtube: coming_soon
+     telegram: jsmarketing_official
+#    microdotblog: coming_soon
+#    googleplus: coming_soon
+     rss: true
+# disqus: 
 
 plugins:
   - resolve: saber-plugin-query-posts
   - resolve: saber-plugin-feed
     options:
       atomFeed: true
+      
+ 
