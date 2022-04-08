@@ -1,10 +1,10 @@
 theme: minima
 
 siteConfig:
-  url: https://example.com
+  url: https://githosted.site
   author: Author of This Site
-  email: author@your-domain.com
-  description: Write an awesome description for your new site here. You can edit this line in saber-config.yml. It will appear in your document head meta (for Google search results) site description.
+  email: vasilii@jsmarketing.ru
+  description:  Twitter автора проекта: [@saber_land](https://twitter.com/saber_land)
 
 themeConfig:
   nav:
@@ -12,9 +12,11 @@ themeConfig:
       link: /
     - text: About
       link: /about.html
+    - text: Samples
+      link: /samples.html
   social:
-    twitter: saber_land
-    github: egoist
+    twitter: jsdeveloperpro
+    github: githostedsite
     rss: true
 
 plugins:
