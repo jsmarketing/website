@@ -15,7 +15,9 @@ themeConfig:
     - text: About
       link: /about.html
     - text: Samples
-      link: /samples.html      
+      link: /samples.html  
+    - text: Starters
+      link: /starters.html
   social:
      twitter: jsdeveloperpro
      github: githostedsite
