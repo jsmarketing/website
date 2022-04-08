@@ -30,7 +30,7 @@ themeConfig:
 #    microdotblog: coming_soon
 #    googleplus: coming_soon
      rss: true
-# disqus: 
+  disqus: githosted
 
 plugins:
   - resolve: saber-plugin-query-posts
