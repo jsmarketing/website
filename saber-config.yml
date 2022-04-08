@@ -18,6 +18,8 @@ themeConfig:
       link: /samples.html  
     - text: Starters
       link: /starters.html
+    - text: Проекты
+      link: /projects/index.md
   social:
      twitter: jsdeveloperpro
      github: githostedsite
