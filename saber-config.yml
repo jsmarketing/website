@@ -2,9 +2,9 @@ theme: minima
 
 siteConfig:
   url: https://githosted.site
-  author: Author of This Site
+  author: Vasilii-Zherar Pavlov
   email: vasilii@jsmarketing.ru
-  description: "Twitter автора проекта: [@saber_land](https://twitter.com/saber_land)"
+  description: "Twitter автора проекта: https://twitter.com/saber_land"
 
 themeConfig:
   nav:
