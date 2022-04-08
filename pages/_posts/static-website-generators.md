@@ -3,6 +3,7 @@ layout: "post"
 title: "Static website generators"
 date: 09-04-2022
 comments: true
+description: "Попытка составить каталог существующих генераторов статичных страниц. Будет дополняться"
 ---
 - Github pages
    [Сайт проекта]()
