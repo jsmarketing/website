@@ -2,6 +2,7 @@
 layout: "post"
 title: "Static website generators"
 date: 09-04-2022
+comments: true
 ---
 - Github pages
    [Сайт проекта]()
