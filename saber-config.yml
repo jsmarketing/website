@@ -4,7 +4,7 @@ siteConfig:
   url: https://githosted.site
   author: Author of This Site
   email: vasilii@jsmarketing.ru
-  description:  Twitter автора проекта: [@saber_land](https://twitter.com/saber_land)
+  description: "Twitter автора проекта: [@saber_land](https://twitter.com/saber_land)"
 
 themeConfig:
   nav:
